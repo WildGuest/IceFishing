@@ -1,10 +1,10 @@
 {
 	"ice": {
 		"Currency": "Coins",
-	  	"Amount": "50"
+	  	"Amount": 50
 	},
 	"coins": {
 		"Currency": "Coins",
-	  	"Amount": "300"
+	  	"Amount": 300
 	}
 }
