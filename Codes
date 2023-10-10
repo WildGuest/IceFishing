@@ -6,9 +6,5 @@
 	"wildguestgames": {
 		"Currency": "Coins",
 	  	"Amount": 5000
-	},
-	"100likes": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
+	}
 }
