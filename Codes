@@ -1,4 +1,4 @@
-[
+{
 	"ice": {
 		"Currency": "Coins",
 	  	"Amount": 5000
@@ -11,4 +11,4 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-]
+}
