@@ -10,9 +10,5 @@
 	"100likes": {
 		"Currency": "Gems",
 	  	"Amount": 500
-	},
-	"test": {
-		"Currency": "Gems",
-	  	"Amount": 500
 	}
 }
