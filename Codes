@@ -14,5 +14,9 @@
 	"250likes": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"Snow": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
