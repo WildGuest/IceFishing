@@ -15,7 +15,7 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"Snow": {
+	"snow": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
