@@ -18,5 +18,9 @@
 	"snow": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"fish": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
