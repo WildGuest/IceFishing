@@ -22,5 +22,9 @@
 	"fish": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"thanks": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
