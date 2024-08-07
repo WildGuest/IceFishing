@@ -26,5 +26,9 @@
 	"thanks": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"access": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
