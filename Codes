@@ -7,18 +7,6 @@
 		"Currency": "Coins",
 	  	"Amount": 5000
 	},
-	"100likes": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
-	"250likes": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
-	"snow": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
 	"fish": {
 		"Currency": "Gems",
 	  	"Amount": 500
@@ -32,6 +20,10 @@
 	  	"Amount": 500
 	},
 	"rotate": {
+		"Currency": "Gems",
+	  	"Amount": 500
+	},
+	"autorarity": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
