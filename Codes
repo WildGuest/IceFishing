@@ -15,15 +15,15 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"access": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
 	"rotate": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
 	"autorarity": {
+		"Currency": "Gems",
+	  	"Amount": 500
+	},
+	"halloween": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
