@@ -26,5 +26,9 @@
 	"halloween": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"spooky": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
