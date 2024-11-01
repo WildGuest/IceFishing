@@ -23,11 +23,7 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"halloween": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
-	"spooky": {
+	"Voidfang": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
