@@ -15,15 +15,11 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"rotate": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
-	"autorarity": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
 	"mythic": {
+		"Currency": "Gems",
+	  	"Amount": 500
+	},
+	"voidfang": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
