@@ -15,10 +15,6 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"mythic": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
 	"voidfang": {
 		"Currency": "Gems",
 	  	"Amount": 500
@@ -26,5 +22,9 @@
 	"snowman": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"christmasday": {
+		"Currency": "Gems",
+	  	"Amount": 5000
 	}
 }
