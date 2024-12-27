@@ -22,9 +22,5 @@
 	"snowman": {
 		"Currency": "Gems",
 	  	"Amount": 500
-	},
-	"christmasday": {
-		"Currency": "Gems",
-	  	"Amount": 7500
 	}
 }
