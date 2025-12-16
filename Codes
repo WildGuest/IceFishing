@@ -15,11 +15,7 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"voidfang": {
-		"Currency": "Gems",
-	  	"Amount": 500
-	},
-	"scarecrow": {
+	"christmastree": {
 		"Currency": "Gems",
 	  	"Amount": 500
 	}
