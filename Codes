@@ -14,9 +14,5 @@
 	"thanks": {
 		"Currency": "Gems",
 	  	"Amount": 500
-	},
-	"christmastree": {
-		"Currency": "Gems",
-	  	"Amount": 500
 	}
 }
