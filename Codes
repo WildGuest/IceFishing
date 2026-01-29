@@ -14,5 +14,9 @@
 	"thanks": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"variants": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
