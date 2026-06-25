@@ -15,8 +15,8 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"iceskates": {
-		"Currency": "Coins",
-	  	"Amount": 5000
+	"fireworks": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
