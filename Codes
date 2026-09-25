@@ -15,8 +15,8 @@
 		"Currency": "Gems",
 	  	"Amount": 500
 	},
-	"inventory": {
-		"Currency": "Gems",
-	  	"Amount": 500
+	"cooking": {
+		"Currency": "Coins",
+	  	"Amount": 5000
 	}
 }
