@@ -18,5 +18,9 @@
 	"flagtraps": {
 		"Currency": "Gems",
 	  	"Amount": 500
+	},
+	"zipline": {
+		"Currency": "Gems",
+	  	"Amount": 500
 	}
 }
